@@ -1,9 +1,10 @@
 [package]
-name = "ether_lib"
+name = "etherlib"
 version = "0.1.1"
 authors = ["yuyongpeng <yuyongpeng@hotmail.com>"]
 edition = "2018"
-
+homepage = "https://github.com/yuyongpeng/ether_lib"
+repository = "https://github.com/yuyongpeng/ether_lib"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
